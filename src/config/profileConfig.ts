@@ -12,7 +12,7 @@ export const profileConfig: ProfileConfig = {
 	name: "Thebvg",
 
 	// 个人签名
-	bio: "",
+	bio: "花有重开日，人无再少年",
 
 	// 链接配置
 	// 已经预装的图标集：fa7-brands，fa7-regular，fa7-solid，material-symbols，simple-icons
