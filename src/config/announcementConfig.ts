@@ -5,7 +5,7 @@ export const announcementConfig: AnnouncementConfig = {
 	title: "",
 
 	// 公告内容
-	content: "hugo toastro的重构博客",
+	content: "hugo to astro的重构博客",
 
 	// 是否允许用户关闭公告
 	closable: true,
